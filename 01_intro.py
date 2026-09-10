@@ -1,0 +1,5 @@
+print("hello i am chetan patel")
+print("i am a teacher")
+print("i live in indore")
+print("my hobby is dancing")
+print("this code is write in python")
