@@ -1,4 +1,4 @@
-a=23
+a=3
 b=5
-res= a * b
+res= a ** b
 print(res) 
