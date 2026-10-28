@@ -9,3 +9,6 @@ city="ratlam"
 # print(city[0:5:2])
 # print(city[0:5:3])
 # print(city[0:5:3])
+# print(city[::-1])   # print reverse string
+# print(city[-2:-4:-1])
+print(city[-4:-1])
