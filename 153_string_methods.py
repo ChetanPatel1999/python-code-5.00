@@ -82,5 +82,50 @@
 
 
 # istitle()
-s="The man"
-print(s.istitle())
+# s="The man"
+# print(s.istitle())
+
+#isalpha():-
+# s=input("enter a string = ")
+# if s.isalpha():
+#     print("string is alphabetic")
+# else:
+#     print("string is not alphabatic")    
+
+
+#isdigit()
+# s="5357865"
+# res=s.isdigit()
+# print(res)
+
+#isalnum()
+# s="5357865ewqwe"
+# res=s.isalnum()
+# print(res)
+
+#isidentifire()
+# s="hel@lo_123"
+# print(s.isidentifier())
+
+#find():- its given index number of passing sub string 
+# if substring is not found so its given -1
+# s="ramayan"
+# print(s.find("th"))
+
+# s=input("enter a string : ")
+# sub=input("enter a search string : ")
+# if s.find(sub)==-1:
+#     print("sub string is not found")
+# else:
+#     print("sub string is found")    
+
+
+#index():- its given index number of passing sub string 
+# if substring is not found so its given error
+# s="this is box"
+# print(s.index("ram"))
+
+
+# isspace():- 
+s="    "
+print(s.isspace())
