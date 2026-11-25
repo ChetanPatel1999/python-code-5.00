@@ -15,7 +15,7 @@ def subtraction():
 def square():
     num=int(input("enter a num : "))
     square=num*num
-    print(f"square of {num} = {num*num}")
+    print(f"square of {num} = {square}")
 
 #main program
 # addition() 
